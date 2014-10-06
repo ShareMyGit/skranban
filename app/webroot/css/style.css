@@ -1,0 +1,134 @@
+#project_title {
+	border-bottom: 1px dashed blue;
+	margin-bottom: 10px;
+}
+
+table#states, table#unsorted {
+	width: 100%;
+	border-collapse: collapse;
+	padding-bottom: 5px;
+	width: 100%;
+}
+
+table, th, td {
+   border: 1px solid lightgrey;
+}
+
+table th.statesHeader {
+	background-color: #F0F0F0;
+	width: 20%;
+	text-transform: uppercase; 
+}
+
+th, td {
+    padding: 0.5em 3px;
+}
+
+.hovered {
+	background: #aaa;
+}
+
+.draggable {
+	width: 100%;
+	      min-height: 32px;
+	      height: auto!important;
+	      -webkit-box-shadow: #B3B3B3 5px 5px 5px;
+	      -moz-box-shadow: #B3B3B3 5px 5px 5px;
+	      box-shadow: #B3B3B3 5px 5px 5px;
+	      margin-bottom:12px;
+	      min-height:32px;
+	      padding:3px;
+	      text-align:center;
+	      width:95%;
+	      display: inline-block;
+	      display: block;
+}
+
+.task-wrapper{
+    min-height: 20px;
+}
+
+/* Menu at the top */
+#menu_top {
+	left: 50%;
+	margin-right: 80px;
+	top: 0px;
+}
+
+#menu_top li.home_button {
+	background: url(../img/menu/background_menu_left.png) no-repeat;
+	display: block;
+	min-height: 40px;
+	min-width: 78px;
+}
+
+#menu_top li.home_button_end {
+	background: url(../img/menu/background_menu_right.png) no-repeat;
+	display: block;
+	min-height: 40px;
+	min-width: 73px;
+}
+
+#menu_top li {
+	color: white;
+	text-decoration: none;
+	background: url(../img/menu/background_menu_center.png) repeat-x;
+	display: block;
+	min-height: 40px;
+}
+
+#menu_top a {
+	color: white;
+	text-decoration: none;
+	padding-left: 25px;
+	padding-right: 5px;
+}
+
+#menu_top a:hover {
+	color: white;
+	text-decoration: underline overline;
+	padding-left: 25px;
+	padding-right: 5px;
+}
+
+#menu_top ul li, #admin_menu ul li {
+	text-decoration: none;
+	padding-top: 45px;
+}
+
+#menu_top ul, #admin_menu ul {
+	margin: 0 0;
+	list-style: none;
+}
+
+#menu_top li, #admin_menu li {
+	float: left;
+}
+
+div.ticket_content, div.ticket_title {
+	text-align: left;
+}
+
+div.ticket_title span {
+	float: right;
+}
+
+span.clear {
+	clear: both;
+}
+
+div.ticket_color {
+	width: 60px;
+	height: 30px;
+}
+
+span.statesHeaderTicketButton {
+	float: right;
+}
+
+div.placeholder {
+    background: none repeat scroll 0 0 #fafafa;
+    border: 2px dashed #000;
+    height: 70px;
+    margin-bottom: 10px;
+}
