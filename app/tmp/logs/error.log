@@ -60846,3 +60846,1464 @@ Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
 Stack Trace:
 #0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2014-10-07 20:28:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-media?v=1.0.6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox.pack?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox.pack?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-media?v=1.0.6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:12:27 Error: [MissingActionException] Action Tickets::admin_isGateLimitExceeded() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tickets',
+  'action' => 'admin_isGateLimitExceeded',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TicketsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-10-07 21:12:51 Error: [MissingActionException] Action Tickets::admin_isGateLimitExceeded() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tickets',
+  'action' => 'admin_isGateLimitExceeded',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TicketsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-10-07 21:17:41 Error: [MissingActionException] Action Tickets::admin_isGateLimitExceeded() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tickets',
+  'action' => 'admin_isGateLimitExceeded',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TicketsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox.pack?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-media?v=1.0.6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox.pack?v=2.1.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-media?v=1.0.6
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-buttons?v=1.0.5
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:17:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/js/ext/fancybox-2.1.5/jquery.fancybox-thumbs?v=1.0.7
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:18:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:18:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:18:49 Error: [MissingActionException] Action Tickets::admin_isGateLimitExceeded() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tickets',
+  'action' => 'admin_isGateLimitExceeded',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TicketsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-10-07 21:19:16 Error: [MissingActionException] Action Tickets::admin_isGateLimitExceeded() could not be found.
+Exception Attributes: array (
+  'controller' => 'Tickets',
+  'action' => 'admin_isGateLimitExceeded',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Scaffold.php(150): Scaffold->_scaffold(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(535): Scaffold->__construct(Object(TicketsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#5 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-10-07 21:24:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:24:29 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:25:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:25:27 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:26:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:26:32 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:27:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:27:37 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:29:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:30:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:30:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:32:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:34:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:36:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:36:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:37:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:37:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:41:29 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:41:38 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:48:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:48:06 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 21:51:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:51:51 Error: Fatal Error (4): syntax error, unexpected '}' in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 103]
+2014-10-07 21:51:51 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 103, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 103, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 21:52:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:53:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:54:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:56:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:56:33 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 119]
+2014-10-07 21:56:33 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 119)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 119, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 119, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 21:56:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:57:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 21:58:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:04:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:07:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:10:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:14:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:15:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:15:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:17:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:17:12 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 22:17:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:17:49 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 22:18:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:18:34 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-07 22:19:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:20:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:21:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:21:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:22:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:24:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:27:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:28:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:29:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:30:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:52:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:53:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:53:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:54:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 22:55:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:14:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:14:31 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 106]
+2014-10-07 23:14:31 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 106)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 106, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 106, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:15:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:15:26 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 108]
+2014-10-07 23:15:26 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 108)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 108, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 108, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:15:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:15:47 Error: Fatal Error (4): syntax error, unexpected ')' in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 117]
+2014-10-07 23:15:47 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 117)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 117, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 117, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:15:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:15:58 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 105]
+2014-10-07 23:15:58 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 105)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:16:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:16:14 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 105]
+2014-10-07 23:16:15 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 105)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:16:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:16:24 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 105]
+2014-10-07 23:16:24 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 105)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 105, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-07 23:35:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:39:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:49:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:49:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:49:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:50:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:51:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:52:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:52:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:52:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:52:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:52:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:53:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:53:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:53:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:53:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:53:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:54:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:54:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:54:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:54:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:54:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:59:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-07 23:59:49 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:00:09 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:15 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:19 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:00:45 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:48 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:53 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:00:56 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:01:22 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/skranban/app/View/Tickets/admin_is_gate_limit_exceeded.ctp',
+)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-10-08 00:01:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:02:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:02:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:03:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:06:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:06:28 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 115]
+2014-10-08 00:06:28 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 115)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 115, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 115, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 00:07:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:07:07 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 115]
+2014-10-08 00:07:07 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 115)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 115, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 115, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 00:08:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:08:23 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 116]
+2014-10-08 00:08:23 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/8
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 116)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 116, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 116, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 00:09:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:09:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:10:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:11:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:11:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

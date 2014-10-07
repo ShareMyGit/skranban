@@ -33,7 +33,7 @@
 						</div>
 					</td>
 					<td class="actions">
-						<?php echo $this->Html->link(__('View'), array('controller' => 'tickets', 'action' => 'view', $ticket['id'])); ?>
+						<?php //echo $this->Html->link(__('View'), array('controller' => 'tickets', 'action' => 'view', $ticket['id'])); ?>
 						<?php echo $this->Html->link(__('Edit'), array('controller' => 'tickets', 'action' => 'edit', $ticket['id'])); ?>
 						<?php echo $this->Html->link(__('Delete'), array('controller' => 'tickets', 'action' => 'delete', 
 																		$ticket['id']), 
@@ -54,5 +54,6 @@
 		<li><?php echo $this->Html->link(__('New account'), array('controller' => 'users', 'action' => 'add')); ?></li>
 		<li><?php echo $this->Html->link(__('List users'), array('controller' => 'users', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('List projects'), array('controller' => 'projects', 'action' => 'index')); ?> </li>
+		<li><?php echo $this->Html->link(__('New ticket'), array('controller' => 'Tickets', 'action' => 'add', $state['State']['project_id'], $state['State']['id'])); ?> </li>
 	</ul>
 </div>

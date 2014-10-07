@@ -1,6 +1,6 @@
 #project_title {
 	border-bottom: 1px dashed blue;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 table#states, table#unsorted {
@@ -107,6 +107,7 @@ th, td {
 
 div.ticket_content, div.ticket_title {
 	text-align: left;
+	font-size: small;
 }
 
 div.ticket_title span {

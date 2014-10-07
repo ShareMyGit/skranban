@@ -11,12 +11,41 @@ function init() {
 					state = ui.item.parent().parent();
 					stateId = $(state).attr('id').replace("state", "");
 					
-					var request = $.ajax({
-						url: "admin/tickets/ajaxEdit/" + ticketId + "/" + stateId,
+					var isGateLimitExceeded = $.ajax({
+						url: "admin/tickets/isGateLimitExceeded/" + stateId,
 						type: "post",
-						data: "",
-						success: function(){
-							//alert(request.responseText);
+						dataType: 'text',
+						cache: false,
+						beforeSend: function(xhr) {
+							xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+			            },
+						success: function(data){
+							return data;
+						},
+						error: function() {
+							alert("The ticket cannot be updated.");
+							return false;
+						}
+					});
+					
+					isGateLimitExceeded.done(function(result) {
+						if(result == 'true') {
+							var moveTicket = $.ajax({
+								url: "admin/tickets/ajaxEdit/" + ticketId + "/" + stateId,
+								type: "post",
+								cache: false,
+								beforeSend: function(xhr) {
+									xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+					            },
+								success: function(){
+									//alert(request.responseText);
+								},
+								error: function() {
+									alert("The ticket cannot be updated.");
+								}
+							});
+						}else{
+							alert(result);
 						}
 					});
 	    		},

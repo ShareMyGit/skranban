@@ -25,10 +25,15 @@
 		echo $this->Html->meta('icon');
 
 		echo $this->Html->css('style');
-		echo $this->Html->css('cake.generic');		
+		echo $this->Html->css('cake.generic');
+		
 		echo $this->Html->css('ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min');
 		echo $this->Html->css('ext/jquery-simplecolorpicker-master/jquery.simplecolorpicker');
 		echo $this->Html->css('ext/jquery-simplecolorpicker-master/jquery.simplecolorpicker-glyphicons');
+		
+		echo $this->Html->css('ext/fancybox-2.1.5/jquery.fancybox');
+		echo $this->Html->css('ext/fancybox-2.1.5/jquery.fancybox-buttons');		
+		echo $this->Html->css('ext/fancybox-2.1.5/jquery.fancybox-thumbs');
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
@@ -37,8 +42,14 @@
 		echo $this->Html->script('ext/jquery-2.1.1.min');
 		echo $this->Html->script('ext/jquery-ui-1.11.1.custom/jquery-ui.min');
 		echo $this->Html->script('dragAndDrop');
+		
 		echo $this->Html->script('ext/jquery-simplecolorpicker-master/jquery.simplecolorpicker');
 		echo $this->Html->script('colorPicker');
+		
+		echo $this->Html->script('ext/fancybox-2.1.5/jquery.fancybox.pack');
+		echo $this->Html->script('ext/fancybox-2.1.5/jquery.fancybox-media');
+		echo $this->Html->script('ext/fancybox-2.1.5/jquery.fancybox-buttons');
+		echo $this->Html->script('ext/fancybox-2.1.5/jquery.fancybox-thumbs');
 	?>
 </head>
 <body>

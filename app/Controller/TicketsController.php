@@ -8,7 +8,7 @@ App::uses('Security', 'Utility');
  */
 class TicketsController extends AppController {
 
-	public $components = array('Paginator'/*, 'DebugKit.Toolbar'*/);
+	public $components = array('Paginator', 'RequestHandler'/*, 'DebugKit.Toolbar'*/);
 	public $paginate = array('limit' => 25);
 	
 /**
@@ -92,6 +92,45 @@ class TicketsController extends AppController {
 		 }
 		
 		 $this->set('ticket', $ticket);
+	}
+	
+	public function admin_isGateLimitExceeded($state_id = null) {
+		$this->autoRender = false;
+		$this->request->onlyAllow('ajax');
+		
+		$response = false;
+		
+		if(($state_id == null) && ($state_id != 0) && !is_numeric($state_id)) {
+			$response = 'Invalid state.';
+		}
+		
+		if($this->request->is(array('post', 'put'))) {
+			$count = $this->Ticket->find('count', array(
+		            		'conditions' => array('state_id' => $state_id),
+			            	'recursive' => -1
+		        		)
+					);
+			
+			$this->loadModel('State');
+			$state = $this->State->find('first',
+										array('conditions' => array('id' => $state_id),
+											'fields' => array('State.max_ticket_nb', 'State.name'),
+											'recursive' => -1
+											)
+										);
+			
+			$response = 'Invalid state.';
+			
+			if($count) {
+				if($count < $state['State']['max_ticket_nb']) {
+					$response = true;
+				}else{
+					$response = 'Max tickets number exceeded for state '.$state['State']['name'].".";
+				}
+			}
+		}
+		
+		return json_encode($response);
 	}
 	
 	public function admin_edit($id = null) {
