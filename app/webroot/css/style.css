@@ -114,6 +114,10 @@ div.ticket_title span {
 	float: right;
 }
 
+div.ticket_footer span {
+	float: right;
+}
+
 span.clear {
 	clear: both;
 }

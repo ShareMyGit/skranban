@@ -63350,3 +63350,48 @@ Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
 Stack Trace:
 #0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2014-10-09 00:13:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:14:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:14:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:14:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:14:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

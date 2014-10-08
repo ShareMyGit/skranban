@@ -13,7 +13,7 @@ App::uses('Debugger', 'Utility');
 
 function buildTicket($ticket, $ticketUser, $current) {
 	return "<div id=\"ticket".$ticket['id']."\"class=\"draggable\" style=\"background-color: ".$ticket['color'].";\">
-						<div class=\"ticket_title\">#".$ticket['id']."[".$ticket['priority']."] - ".$ticket['name']."
+						<div class=\"ticket_title\">#".$ticket['id']." - ".$ticket['name']."
 							<span>".(isset($ticketUser) ? $current->Html->image('controls/man.png', 
 											array('alt' => $ticketUser['username'], 
 												'border' => 'none', 
@@ -49,7 +49,15 @@ function buildTicket($ticket, $ticketUser, $current) {
 							<span>Description: ".$ticket['short_description']."</span><br />
 							<span>Duration (expected / effective): ".$ticket['expected_duration']." / ".$ticket['effective_duration']." day(s)</span><br /><br />
 							<span>Start date: ".$ticket['started']."</span><br />
-							<span>End date: ".$ticket['ended']."</span><br />
+							<span>
+								<div class=\"ticket_footer\">
+									End date: ".$ticket['ended']."
+									<span>
+										[".$ticket['priority']."]
+									</span>
+									<span class=\"clear\" />
+								</div>
+							</span>
 						</div>
 					</div>";
 }
