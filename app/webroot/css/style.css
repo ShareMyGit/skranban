@@ -107,7 +107,7 @@ th, td {
 
 div.ticket_content, div.ticket_title {
 	text-align: left;
-	font-size: small;
+	font-size: x-small;
 }
 
 div.ticket_title span {

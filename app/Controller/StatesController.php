@@ -18,15 +18,21 @@ class StatesController extends AppController {
  */
 	public $scaffold;
 
+	/**
+	 * Display the list of states.
+	 */
 	public function admin_index($projectId = null) {
 		if($projectId) {
 			$this->State->settings = $this->paginate;
 			$this->set('states', $this->Paginator->paginate('State'));
 		}else{
-			$this->Session->setFlash(__('Undefined state.'));
+			$this->Session->setFlash(__('Undefined states.'));
 		}
 	}
 	
+	/**
+	 * Add a new state.
+	 */
 	public function admin_add($projectId = null) {
 		if($this->request->is('post')) {
 			$this->State->create();
@@ -44,12 +50,16 @@ class StatesController extends AppController {
 			
 			$maxOrder = $this->max_order($projectId);
 			
+			// Set the order of the new state to the max found for this project and add 1.
 			$this->set('order', (isset($maxOrder) && !empty($maxOrder)) ? $maxOrder + 1 : 1);
 		}else{
 			$this->Session->setFlash(__('A state must be associated to a project.'));
 		}
 	}
 	
+	/**
+	 * View a state data.
+	 */
 	public function view($id = null) {
 		if(!$id) {
 			throw new NotFoundException(__('Invalid state'));
@@ -64,10 +74,16 @@ class StatesController extends AppController {
 		 $this->set('state', $state);
 	}
 	
+	/**
+	 * View a state data.
+	 */
 	public function admin_view($id = null) {
 		$this->view($id);
 	}
 	
+	/**
+	 * Edit a state.
+	 */
 	public function admin_edit($id = null) {
 		if(!$id) {
 			throw new NotFoundException(__('Invalid state'));
@@ -79,6 +95,9 @@ class StatesController extends AppController {
 	 		throw new NotFoundException(__('Invalid state'));
 		}
 		
+		/**
+		 * Get all states order by their order number.
+		 */
 		$this->set('ordersList', $this->State->find('all', 
 													array(
 														'recursive' => -1,
@@ -117,6 +136,9 @@ class StatesController extends AppController {
 		$this->request->data = $state;
 	}
 	
+	/**
+	 * Shift the states' order.
+	 */
 	public function shiftOrders($project_id, $state_id, $new_order, $old_order) {
 		$states = $this->State->find('all', 
 										array(
@@ -156,6 +178,9 @@ class StatesController extends AppController {
 		return $saveOk;
 	}
 	
+	/**
+	 * Find the max state order of the project.
+	 */
 	public function max_order($projectId) {
 		$maxOrder = $this->State->find('first', array(
 									'fields' => array('MAX(State.state_order) AS state_order'),
@@ -167,6 +192,9 @@ class StatesController extends AppController {
 		return (isset($maxOrder) && !empty($maxOrder)) ? $maxOrder[0]['state_order'] : 0;
 	}
 	
+	/**
+	 * Delete a state.
+	 */
 	public function admin_delete($id = null) {
 		$this->State->id = $id;
 		
@@ -181,6 +209,7 @@ class StatesController extends AppController {
 			return $this->redirect(array('controller' => 'projects', 'action' => 'index'));
 		}
 		
+		// Set the state id of all associated tickets => unsorted tickets.
 		if($state['Tickets']) {
 			foreach($state['Tickets'] as $ticket) {
 				$this->State->create();

@@ -62307,3 +62307,1046 @@ Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
 Stack Trace:
 #0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2014-10-08 00:27:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:27:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:27:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:27:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:27:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:27:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:28:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:28:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:28:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:29:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:30:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 00:30:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:17:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:56:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:57:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:58:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 22:58:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:12:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:13:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:13:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:16:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:18:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:19:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:21:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:22:24 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:22:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:22:42 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:22:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:24:43 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:24:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:29:28 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:29:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:29:44 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:29:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:29:54 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:29:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:30:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:30:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:30:20 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:30:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:30:40 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:30:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:30:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Tickets.priority' in 'order clause'
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `Project...', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Project...', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Project...', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(Project), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/PagesController.php(91): Model->find('first', Array)
+#7 [internal function]: PagesController->display('home')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:30:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:30:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:31:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:31:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:31:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:32:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:33:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:35:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:37:17 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:37:17 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:37:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:38:18 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:38:18 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:38:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:38:29 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:38:29 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:38:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:38:43 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:38:43 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:38:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:38:57 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:38:57 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:38:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:38:59 Error: Fatal Error (1): Using $this when not in object context in [/Applications/MAMP/htdocs/skranban/app/View/Pages/home.ctp, line 29]
+2014-10-08 23:38:59 Error: [FatalErrorException] Using $this when not in object context
+Request URL: /skranban/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Using $this whe...', '/Applications/M...', 29)
+#1 [internal function]: ErrorHandler::handleError(1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Using $this whe...', '/Applications/M...', 29, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-08 23:38:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:39:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:40:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:41:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:43:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:43:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:43:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:44:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:44:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:45:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:45:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:47:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:47:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:51:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:51:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/-1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `State`....', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `State`....', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `State`....', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(State), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php(133): Model->find('first', Array)
+#7 [internal function]: TicketsController->admin_isGateLimitExceeded('-1')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TicketsController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:51:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:52:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:52:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/-1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `State`....', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `State`....', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `State`....', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(State), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php(133): Model->find('first', Array)
+#7 [internal function]: TicketsController->admin_isGateLimitExceeded('-1')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TicketsController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:52:23 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/-1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('SELECT `State`....', Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `State`....', Array, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `State`....', false)
+#4 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2947): DboSource->read(Object(State), Array)
+#5 /Applications/MAMP/htdocs/skranban/lib/Cake/Model/Model.php(2919): Model->_readDataSource('first', Array)
+#6 /Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php(133): Model->find('first', Array)
+#7 [internal function]: TicketsController->admin_isGateLimitExceeded('-1')
+#8 /Applications/MAMP/htdocs/skranban/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(TicketsController), Array)
+#9 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/skranban/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(TicketsController), Object(CakeRequest))
+#11 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-10-08 23:52:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:55:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:56:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-08 23:59:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:00:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:04:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:04:41 Error: Fatal Error (4): syntax error, unexpected ')', expecting ']' in [/Applications/MAMP/htdocs/skranban/app/Controller/TicketsController.php, line 141]
+2014-10-09 00:04:41 Error: [FatalErrorException] syntax error, unexpected ')', expecting ']'
+Request URL: /skranban/admin/tickets/isGateLimitExceeded/-1
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 141)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 141, Array)
+#2 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 141, Array)
+#3 /Applications/MAMP/htdocs/skranban/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-10-09 00:05:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:05:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:05:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-10-09 00:05:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /skranban/css/ext/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css
+Stack Trace:
+#0 /Applications/MAMP/htdocs/skranban/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

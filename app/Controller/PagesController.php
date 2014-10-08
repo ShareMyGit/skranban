@@ -48,6 +48,9 @@ class PagesController extends AppController {
  *	or MissingViewException in debug mode.
  */
 	public function display() {
+		/*
+		 * Display the projects boards.
+		 */
 		$this->loadModel('User');
 		
 		$users = $this->User->find('first', array(
@@ -107,6 +110,8 @@ class PagesController extends AppController {
 
 		$this->set('projects', $projects);
 		$this->set('lastProjectId', $maxId);
+		
+		/* End of the projects boards data. */
 		
 		$path = func_get_args();
 

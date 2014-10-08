@@ -18,11 +18,17 @@ class ProjectsController extends AppController {
  */
 	public $scaffold;
 
+	/**
+	 * Display the list of projects.
+	 */
 	public function index() {
 		$this->Paginator->settings = $this->paginate;
 		$this->set('projects', $this->Paginator->paginate('Project'));
 	}
 	
+	/**
+	 * Display the list of projects.
+	 */
 	public function admin_index($id = null) {
 		if($id) {
 			$this->Project->bindModel(array(
@@ -45,6 +51,9 @@ class ProjectsController extends AppController {
 		$this->set('projects', $this->Paginator->paginate('Project'));
 	}
 	
+	/**
+	 * Edit a project.
+	 */
 	public function admin_edit($id) {
 		if(!$id) {
 		   $this->Session->setFlash(__('Invalid project.'));
@@ -85,6 +94,9 @@ class ProjectsController extends AppController {
 		}		
 	}
 	
+	/**
+	 * Display a project data.
+	 */
 	public function view($id = null) {
 		if(!$id) {
 		   throw new NotFoundException(__('Invalid project'));
@@ -138,10 +150,16 @@ class ProjectsController extends AppController {
 		$this->set('isRelated', $this->isRelated($projectUsers));
 	}
 	
+	/**
+	 * Display a project data.
+	 */
 	public function admin_view($id = null) {
 		$this->view($id);
 	}
 	
+	/**
+	 * Determine if the current user is related to the project.
+	 */
 	public function isRelated($projectUsers) {
 		for($i = 0; $i < count($projectUsers); $i++) {
 			if($projectUsers[$i]['id'] == AuthComponent::user('id')) {
@@ -152,6 +170,9 @@ class ProjectsController extends AppController {
 		return false;
 	}
 	
+	/**
+	 * Add a new project.
+	 */
 	public function admin_add() {
 		if($this->request->is('post')) {
 			$this->Project->create();
@@ -190,6 +211,9 @@ class ProjectsController extends AppController {
 		}
 	}
 	
+	/**
+	 * Remove an user from the project.
+	 */
 	public function admin_remove($project_id = null, $userId = null, $projectUsers_id = null) {
 		if(!$project_id) {
 		   throw new NotFoundException(__('Invalid project.'));
@@ -220,6 +244,9 @@ class ProjectsController extends AppController {
 		return $this->redirect($this->referer());
 	}
 	
+	/**
+	 * Delete a project.
+	 */
 	public function admin_delete($id = null) {
 		$this->Project->id = $id;
 		
@@ -237,6 +264,7 @@ class ProjectsController extends AppController {
 		if($this->Project->delete($id, true)) {
 			$this->Session->setFlash(__('The project has been deleted.'));
 		
+			// Delete all associated data, there must be a better way to do it (ORM).
 			$this->loadModel('ProjectUsers');
 			$this->ProjectUsers->deleteAll(array('ProjectUsers.project_id' => $id), true);
 		

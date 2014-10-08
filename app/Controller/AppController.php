@@ -49,7 +49,10 @@ class AppController extends Controller {
 					                    'authorize' => 'Controller'										
 					            )
 					    );
-
+	
+	/**
+	 * Define the default access to all users.
+	 */
 	public function beforeFilter(){
 		$this->Auth->authorize = array('Controller');
 		$this->Auth->allow('index', 'view');

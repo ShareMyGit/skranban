@@ -9,7 +9,7 @@ class UsersController extends AppController {
 
 	public $helpers = array('Session');
 
-	public $components = array('Paginator'/*, 'DebugKit.Toolbar'*/);
+	public $components = array('Paginator', 'DebugKit.Toolbar');
 	public $paginate = array('limit' => 25);
 	
 	/**
@@ -28,7 +28,7 @@ class UsersController extends AppController {
 	}
 
 	/**
-	 * Add a new user.
+	 * Create a new account.
 	 */
 	public function add() {
 		if($this->request->is('post')) {
@@ -47,6 +47,9 @@ class UsersController extends AppController {
 		}
 	}
 	
+	/**
+	 * Edit the profile.
+	 */
 	public function admin_edit($id = null) {
 		$this->User->id = $id;
 		
@@ -79,6 +82,9 @@ class UsersController extends AppController {
         }
 	}
 	
+	/**
+	 * Delete account.
+	 */
 	public function admin_delete($id = null) {
 		$this->User->id = $id;
 		
@@ -92,8 +98,8 @@ class UsersController extends AppController {
 		}
 		
 		$user = $this->User->read(null, $id);
-		//print_r($user);
-		
+				
+		// Check if the user owns a project. 
 		$isOwner = false;
 		if(!empty($user['Projects'])) {
 			foreach($user['Projects'] as $project) {
@@ -117,16 +123,25 @@ class UsersController extends AppController {
 		}
 	}
 	
+	/**
+	 * Display the list of users.
+	 */
 	public function index() {
 		$this->Paginator->settings = $this->paginate;
 		$this->set('users', $this->Paginator->paginate('User'));
 	}
 	
+	/**
+	 * Display the list of users.
+	 */
 	public function admin_index() {
 		$this->Paginator->settings = $this->paginate;
 		$this->set('users', $this->Paginator->paginate('User'));
 	}
 	
+	/**
+	 * Display the user data.
+	 */
 	public function view($id = null) {
 		if(!$id) {
 			throw new NotFoundException(__('Invalid user'));
@@ -140,28 +155,20 @@ class UsersController extends AppController {
 		$this->set('user', $user);
 	}
 	
+	/**
+	 * Display the user data.
+	 */
 	public function admin_view($id = null) {
-		if(!$id) {
-			throw new NotFoundException(__('Invalid user'));
-		}
-
-		$user = $this->User->findById($id);
-		if (!$user) {
-		 	throw new NotFoundException(__('Invalid user'));
-		}
-		$this->set('user', $user);
+		$this->view($id);
 	}
 	
+	/**
+	 * Log the user in.
+	 */
 	function login() {
 		if($this->request->is('post')) {
 			if($this->Auth->login()) {
-			//$user = $this->Auth->identify($this->request, $this->response);
-			//if($user) {
-			   // $this->Session->write('Auth.User', $user);
-				//$this->Session->setFlash(__('You are now logged in.'));
 	            return $this->redirect('/');
-	            // Avant 2.3, utilisez
-	            // `return $this->redirect($this->Auth->redirect());`
 	        } else {
 	            $this->Session->setFlash(__('Invalid username or password.'),
 					                'default',
@@ -172,10 +179,16 @@ class UsersController extends AppController {
 	    }
 	}
 	
+	/**
+	 * Log the user out.
+	 */
 	function logout() {
 		$this->admin_logout();
 	}
 
+	/**
+	 * Log the user out.
+	 */
 	function admin_logout() {
 		$this->Session->destroy();
 	    $this->Session->setFlash('You are logged out.');		

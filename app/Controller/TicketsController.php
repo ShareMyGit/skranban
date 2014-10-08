@@ -4,7 +4,7 @@ App::uses('Security', 'Utility');
 
 /**
  * Tickets Controller
- *
+ * 
  */
 class TicketsController extends AppController {
 
@@ -18,6 +18,9 @@ class TicketsController extends AppController {
  */
 	public $scaffold;
 
+	/**
+	 * Display the list of tickets.
+	 */
 	public function admin_index($projectId = null) {
 		if($projectId) {
 			$this->Ticket->settings = $this->paginate;
@@ -81,6 +84,9 @@ class TicketsController extends AppController {
 		$this->set('users', $users);
 	}
 	
+	/**
+	 * Display a ticket content.
+	 */
 	public function view($id = null) {
 		if(!$id) {
 			throw new NotFoundException(__('Invalid ticket.'));
@@ -94,45 +100,61 @@ class TicketsController extends AppController {
 		 $this->set('ticket', $ticket);
 	}
 	
+	/**
+	 * Determines if the max number of tickets has been exceeded.
+	 * The function is used in an ajax request.
+	 */
 	public function admin_isGateLimitExceeded($state_id = null) {
+		// Deactivate the rendering.
 		$this->autoRender = false;
 		$this->request->onlyAllow('ajax');
 		
 		$response = false;
 		
-		if(($state_id == null) && ($state_id != 0) && !is_numeric($state_id)) {
+		if(($state_id == null) && !is_numeric($state_id)) {
 			$response = 'Invalid state.';
 		}
 		
 		if($this->request->is(array('post', 'put'))) {
-			$count = $this->Ticket->find('count', array(
-		            		'conditions' => array('state_id' => $state_id),
-			            	'recursive' => -1
-		        		)
-					);
-			
-			$this->loadModel('State');
-			$state = $this->State->find('first',
-										array('conditions' => array('id' => $state_id),
-											'fields' => array('State.max_ticket_nb', 'State.name'),
-											'recursive' => -1
-											)
-										);
-			
-			$response = 'Invalid state.';
-			
-			if($count) {
-				if($count < $state['State']['max_ticket_nb']) {
-					$response = true;
+			if(($state_id == -1) || ($state_id == 0)) { // Unsorted tickets and Prod tickets.
+				$response = true;
+			}else{
+				$count = $this->Ticket->find('count', array(
+			            		'conditions' => array('state_id' => $state_id),
+				            	'recursive' => -1
+			        		)
+						);
+
+				$this->loadModel('State');
+
+				// Get the state data.
+				$state = $this->State->find('first',
+											array('conditions' => array('State.id' => $state_id),
+												'fields' => array('State.max_ticket_nb', 'State.name'),
+												'recursive' => -1
+												)
+											);
+
+				$response = 'Invalid state.';
+
+				if(isset($count)) { // Compare the number of tickets and the max authorized.
+					if($count < $state['State']['max_ticket_nb']) {
+						$response = true;
+					}else{
+						$response = 'Max tickets number exceeded for state '.$state['State']['name'].".";
+					}
 				}else{
-					$response = 'Max tickets number exceeded for state '.$state['State']['name'].".";
+					$response = 'The max tickets number cannot be retrieved for this state.';
 				}
-			}
+			}			
 		}
 		
 		return json_encode($response);
 	}
 	
+	/**
+	 * Edit a ticket.
+	 */
 	public function admin_edit($id = null) {
 		if(!$id) {
 			throw new NotFoundException(__('Invalid ticket.'));
@@ -180,6 +202,9 @@ class TicketsController extends AppController {
 		$this->set('users', $users);
 	}
 	
+	/**
+	 * Function used to update a ticket state through an ajax request call.
+	 */
 	public function admin_ajaxEdit($id = null, $state_id = null) {
 		if(!$id) {
 			$this->Session->setFlash(__('Invalid ticket.'));
@@ -229,6 +254,9 @@ class TicketsController extends AppController {
 		}
 	}
 	
+	/**
+	 * Delete a ticket.
+	 */
 	public function admin_delete($id = null) {
 		$this->Ticket->id = $id;
 		
